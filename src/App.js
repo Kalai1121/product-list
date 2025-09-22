@@ -151,7 +151,7 @@ const Header = () => (
         <img src={Icon} alt="Icon" className="w-2 h-2" />
       </div>
       <strong>E-Comm</strong>
-      <nav style={{ marginLeft: 407, fontWeight: 500, fontSize: 15, display: "flex", justifyContent: "center", gap: 16, flex: 1, }}>
+      <nav style={{ marginLeft: 32, fontWeight: 500, fontSize: 15, display: "flex", justifyContent: "center", gap: 16, flex: 1, }}>
         <a
           href="#home"
           style={{ marginRight: 16, color: "#50a4ff", textDecoration: "none" }}
